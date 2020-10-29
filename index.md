@@ -7,6 +7,9 @@ permalink: /
 last_modified_date: 2020-04-27T17:54:08+0000
 ---
 
-# Introduction
+# Awesome lists about Canada
 
-This is a collection of bookmarks about the Canadian innovation space.
+* [Awesome Government of Canada](https://github.com/swill/awesome-gc)
+* [Open source cities: Montreal](https://github.com/opensourcecities/montreal)
+* [Open source cities: Toronto](https://github.com/opensourcecities/toronto)
+* [Open source cities: Vancouver](https://github.com/opensourcecities/vancouver)
