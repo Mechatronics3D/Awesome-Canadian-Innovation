@@ -1,0 +1,554 @@
+{"0": {
+    "doc": "Agriculture",
+    "title": "Agriculture",
+    "content": ". | Kubota | 21 autonomous tractor projects around the world | New Holland Drive | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Agriculture/",
+    "relUrl": "/docs/Agriculture/"
+  },"1": {
+    "doc": "Agriculture",
+    "title": "Agritechnica 2019",
+    "content": ". | Agrointelli | Commercial Vehicle Intelligent Control | Carre | Cognitive Pilot | Continental | DOT | Drones Imaging | Farmdroid | Fons | Frontier Connect | Garford | General Laser | Giuliani S.r.l. | Harxon | Hiphen Plant | Kompetenzzentrum COALA | JCA Electronics | K.U.L.T | Lykketronic | Machinery Guide | Aachen ETAROB | Milar | Mobiletronics | Naïo Technologies | Optronia | Pool agri | Raussendorf | Universität Hohenheim, faculty of agricultural sciences | Universität Osnabrück - Embedded Knowledge-Based Systems | Vertical Works | XAG | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Agriculture/#agritechnica-2019",
+    "relUrl": "/docs/Agriculture/#agritechnica-2019"
+  },"2": {
+    "doc": "Apex.ai",
+    "title": "Apex.ai",
+    "content": ". | Apex.AI on Gitlab | ROSCon 2018 Madrid: ROS 2 on Autonomous Driving Vehicles | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Apex.ai/",
+    "relUrl": "/docs/Apex.ai/"
+  },"3": {
+    "doc": "Apollo",
+    "title": "Apollo",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-docs/docs/Apollo/",
+    "relUrl": "/docs/Apollo/"
+  },"4": {
+    "doc": "Apollo",
+    "title": "Companies",
+    "content": ". | Auro | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Apollo/#companies",
+    "relUrl": "/docs/Apollo/#companies"
+  },"5": {
+    "doc": "AutoCore",
+    "title": "AutoCore",
+    "content": ". | AutoCore | AutoCore PCU | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/AutoCore/",
+    "relUrl": "/docs/AutoCore/"
+  },"6": {
+    "doc": "Autonomous Racing",
+    "title": "Races",
+    "content": ". | AMZ Deriverless | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/AutonomousRacing/#races",
+    "relUrl": "/docs/AutonomousRacing/#races"
+  },"7": {
+    "doc": "Autonomous Racing",
+    "title": "Go Karts",
+    "content": ". | Autonomous Go Kart Racing at ETHZ | Kartsim by ETHZ | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/AutonomousRacing/#go-karts",
+    "relUrl": "/docs/AutonomousRacing/#go-karts"
+  },"8": {
+    "doc": "Autonomous Racing",
+    "title": "RC cars",
+    "content": ". | ORCA - ETHZ | F1/10 autonomous racing | DeepRacer | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/AutonomousRacing/#rc-cars",
+    "relUrl": "/docs/AutonomousRacing/#rc-cars"
+  },"9": {
+    "doc": "Autonomous Racing",
+    "title": "Autonomous Racing",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-docs/docs/AutonomousRacing/",
+    "relUrl": "/docs/AutonomousRacing/"
+  },"10": {
+    "doc": "Autoware",
+    "title": "Autoware.io",
+    "content": ". | Vehicle control | Sensor and ECU integration | Simulation &amp; Tools | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Autoware/#autowareio",
+    "relUrl": "/docs/Autoware/#autowareio"
+  },"11": {
+    "doc": "Autoware",
+    "title": "Autoware.ai (ROS 1)",
+    "content": ". | Autoware wiki | Autoware manuals | Autoware Tutorial | Autocore | Streetdrone | Autoware feature documentation | Autoware | Autoware Foundation | Autoware Foundation Announcement | Open Source Integrated Planner for Autonomous Navigation in Highly Dynamic Environments | AMC JP YouTube | PIX Moving | PIX Moving MoveIt | Autoware tutorial by PIX Moving ",
+    "url": "http://localhost:4000/just-the-docs/docs/Autoware/#autowareai-ros-1",
+    "relUrl": "/docs/Autoware/#autowareai-ros-1"
+  },"12": {
+    "doc": "Autoware",
+    "title": "Repos",
+    "content": "| op-x repo by Hatem | Old Autoware repo | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Autoware/#repos",
+    "relUrl": "/docs/Autoware/#repos"
+  },"13": {
+    "doc": "Autoware",
+    "title": "Simulation",
+    "content": ". | Gazebo | LGSVL GitHub | LGSVL Start Guide | . Carla and Autoware . | Carla Autoware | Carla simulation bridge | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Autoware/#simulation",
+    "relUrl": "/docs/Autoware/#simulation"
+  },"14": {
+    "doc": "Autoware",
+    "title": "Fleet Management",
+    "content": ". | Autoware Management System | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Autoware/#fleet-management",
+    "relUrl": "/docs/Autoware/#fleet-management"
+  },"15": {
+    "doc": "Autoware",
+    "title": "Autoware.auto (ROS 2)",
+    "content": ". | AutowareAuto wiki | AutowareAuto How to | Autonomy hardware workgroup | Autonomy software working group | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Autoware/#autowareauto-ros-2",
+    "relUrl": "/docs/Autoware/#autowareauto-ros-2"
+  },"16": {
+    "doc": "Autoware",
+    "title": "Vehicle Interface",
+    "content": ". | Collect use cases for vehicle interface | Linux CAN (SocketCAN: can-utils) interface for networking CAN Bus support to the Linux Kernel | All platforms use CAN as the low-level communication protocol but each DBW system has its own implementation (DBC). | At this time, some vendors provide ROS drivers which can utilize either ‘kvaser_interface’ or ‘socketcan_interface’ ROS nodes to communicate with their DBW system while others use their own proprietary hardware and software interface for CAN communication below the ROS layer. | Vehicle interface reference implementation | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Autoware/#vehicle-interface",
+    "relUrl": "/docs/Autoware/#vehicle-interface"
+  },"17": {
+    "doc": "Autoware",
+    "title": "Autonomous Valet Parking",
+    "content": ". | Milestone 1 | Milestone 2 | Milestone 3 | Milestone 4 | Milestone 5 | AVP Zoom meeting 3 Dec. 2019 | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Autoware/#autonomous-valet-parking",
+    "relUrl": "/docs/Autoware/#autonomous-valet-parking"
+  },"18": {
+    "doc": "Autoware",
+    "title": "Maps",
+    "content": ". | ASSURE MAPS | Lanelet2 | OpenDRIVE | Map Toolbox by AutoCore | AVP maps | OpenDRIVE | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Autoware/#maps",
+    "relUrl": "/docs/Autoware/#maps"
+  },"19": {
+    "doc": "Autoware",
+    "title": "Simulation",
+    "content": ". | Carla | LGSVL | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Autoware/#simulation-1",
+    "relUrl": "/docs/Autoware/#simulation-1"
+  },"20": {
+    "doc": "Autoware",
+    "title": "Web Applications",
+    "content": ". | Autoware web runtime manager | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Autoware/#web-applications",
+    "relUrl": "/docs/Autoware/#web-applications"
+  },"21": {
+    "doc": "Autoware",
+    "title": "Companies",
+    "content": ". | Pix Moving | Pix Moving Community | ZMP MV2 | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Autoware/#companies",
+    "relUrl": "/docs/Autoware/#companies"
+  },"22": {
+    "doc": "Autoware",
+    "title": "Projects",
+    "content": ". | Autonomous Valet Parking | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Autoware/#projects",
+    "relUrl": "/docs/Autoware/#projects"
+  },"23": {
+    "doc": "Autoware",
+    "title": "People",
+    "content": ". | Amin Tahmasbi | Hatem Darweesh Gitlab | Hatem Darweesh GitHub | Hatem Darweesh YouTube | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Autoware/#people",
+    "relUrl": "/docs/Autoware/#people"
+  },"24": {
+    "doc": "Autoware",
+    "title": "Training",
+    "content": ". | Autoware online class ",
+    "url": "http://localhost:4000/just-the-docs/docs/Autoware/#training",
+    "relUrl": "/docs/Autoware/#training"
+  },"25": {
+    "doc": "Autoware",
+    "title": "Path Planning",
+    "content": "| Path Planning on Autoware: A Simulation tool (Part 1/3) | Path Planning on Autoware: A Simulation tool (Part 2/3) | Path Planning on Autoware: A Simulation tool (Part 3/3) | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Autoware/#path-planning",
+    "relUrl": "/docs/Autoware/#path-planning"
+  },"26": {
+    "doc": "Autoware",
+    "title": "Autoware",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-docs/docs/Autoware/",
+    "relUrl": "/docs/Autoware/"
+  },"27": {
+    "doc": "Connected Vehicles",
+    "title": "ARPA-E",
+    "content": ". | ARPA-E Next Car | Jing Sun, awarded $1.5M grant for NEXTCAR automated vehicle project | CODES Lab at Boston University | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/ConnectedVehicles/#arpa-e",
+    "relUrl": "/docs/ConnectedVehicles/#arpa-e"
+  },"28": {
+    "doc": "Connected Vehicles",
+    "title": "Connected Vehicles",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-docs/docs/ConnectedVehicles/",
+    "relUrl": "/docs/ConnectedVehicles/"
+  },"29": {
+    "doc": "Dataspeed",
+    "title": "Dataspeed",
+    "content": ". | Autoware | Apollo | ROS | MATLAB/Simulink | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Dataspeed/",
+    "relUrl": "/docs/Dataspeed/"
+  },"30": {
+    "doc": "Dataspeed",
+    "title": "Projects",
+    "content": ". | Dataspeed Bitbucket | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Dataspeed/#projects",
+    "relUrl": "/docs/Dataspeed/#projects"
+  },"31": {
+    "doc": "Dataspeed",
+    "title": "Simulation",
+    "content": ". | DBW Simulation | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Dataspeed/#simulation",
+    "relUrl": "/docs/Dataspeed/#simulation"
+  },"32": {
+    "doc": "Fleet Management System",
+    "title": "Fleet Management System",
+    "content": ". | G7 | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/FMS/",
+    "relUrl": "/docs/FMS/"
+  },"33": {
+    "doc": "Hardware",
+    "title": "Semiconductor companies",
+    "content": ". | Renesas | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Hardware-AutonomousVehicles/#semiconductor-companies",
+    "relUrl": "/docs/Hardware-AutonomousVehicles/#semiconductor-companies"
+  },"34": {
+    "doc": "Hardware",
+    "title": "Applications",
+    "content": ". | Dibotics 3D SLAM | 3D semantic camera | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Hardware-AutonomousVehicles/#applications",
+    "relUrl": "/docs/Hardware-AutonomousVehicles/#applications"
+  },"35": {
+    "doc": "Hardware",
+    "title": "Hardware",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-docs/docs/Hardware-AutonomousVehicles/",
+    "relUrl": "/docs/Hardware-AutonomousVehicles/"
+  },"36": {
+    "doc": "LG",
+    "title": "LG SVL Simulator",
+    "content": ". | Autoware modified by LG Silicon Valley Lab | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/LG/#lg-svl-simulator",
+    "relUrl": "/docs/LG/#lg-svl-simulator"
+  },"37": {
+    "doc": "LG",
+    "title": "LG",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-docs/docs/LG/",
+    "relUrl": "/docs/LG/"
+  },"38": {
+    "doc": "Learning CAV",
+    "title": "Udacity",
+    "content": ". | Self-driving Car Engineer Nanodegree Program | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Learning/#udacity",
+    "relUrl": "/docs/Learning/#udacity"
+  },"39": {
+    "doc": "Learning CAV",
+    "title": "Coursera",
+    "content": ". | Self-Driving Cars Specialization | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Learning/#coursera",
+    "relUrl": "/docs/Learning/#coursera"
+  },"40": {
+    "doc": "Learning CAV",
+    "title": "EdX",
+    "content": ". | Multi-Object Tracking for Automotive Systems | Sensor Fusion and Non-linear Filtering for Automotive Systems | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Learning/#edx",
+    "relUrl": "/docs/Learning/#edx"
+  },"41": {
+    "doc": "Learning CAV",
+    "title": "Udemy",
+    "content": ". | Daniel Stang | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Learning/#udemy",
+    "relUrl": "/docs/Learning/#udemy"
+  },"42": {
+    "doc": "Learning CAV",
+    "title": "Learning CAV",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-docs/docs/Learning/",
+    "relUrl": "/docs/Learning/"
+  },"43": {
+    "doc": "Machine Learning",
+    "title": "NVIDIA",
+    "content": ". | JetRacer | Forsee Navigation | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/MachineLearning-AutonomousVehicles/#nvidia",
+    "relUrl": "/docs/MachineLearning-AutonomousVehicles/#nvidia"
+  },"44": {
+    "doc": "Machine Learning",
+    "title": "End to End Driving",
+    "content": ". | Autonomous Race Car | NVIDIA Redtail | Transform your Drone into an Autonomous Drone | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/MachineLearning-AutonomousVehicles/#end-to-end-driving",
+    "relUrl": "/docs/MachineLearning-AutonomousVehicles/#end-to-end-driving"
+  },"45": {
+    "doc": "Machine Learning",
+    "title": "Machine Learning",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-docs/docs/MachineLearning-AutonomousVehicles/",
+    "relUrl": "/docs/MachineLearning-AutonomousVehicles/"
+  },"46": {
+    "doc": "Mathworks",
+    "title": "Mathworks",
+    "content": ". | Automated Driving Toolbox | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Mathworks/",
+    "relUrl": "/docs/Mathworks/"
+  },"47": {
+    "doc": "Microsoft",
+    "title": "AirSim",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-docs/docs/Microsoft/#airsim",
+    "relUrl": "/docs/Microsoft/#airsim"
+  },"48": {
+    "doc": "Microsoft",
+    "title": "Companies",
+    "content": ". | Cognata | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Microsoft/#companies",
+    "relUrl": "/docs/Microsoft/#companies"
+  },"49": {
+    "doc": "Microsoft",
+    "title": "Microsoft",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-docs/docs/Microsoft/",
+    "relUrl": "/docs/Microsoft/"
+  },"50": {
+    "doc": "NVIDIA",
+    "title": "Autonomous Driving",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-docs/docs/NVIDIA/#autonomous-driving",
+    "relUrl": "/docs/NVIDIA/#autonomous-driving"
+  },"51": {
+    "doc": "NVIDIA",
+    "title": "Robots",
+    "content": ". | JetBot | JetRacer | Jetson Car | F1/10 | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/NVIDIA/#robots",
+    "relUrl": "/docs/NVIDIA/#robots"
+  },"52": {
+    "doc": "NVIDIA",
+    "title": "Jetson Boards",
+    "content": ". | Jetson Nano | Jetson TX2 | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/NVIDIA/#jetson-boards",
+    "relUrl": "/docs/NVIDIA/#jetson-boards"
+  },"53": {
+    "doc": "NVIDIA",
+    "title": "NVIDIA DRIVE",
+    "content": ". | NVIDIA DRIVE CONSTELLATION | NVIDIA DRIVE PX 2 . | How Deep Learning Will Enable Self-Driving Cars | . | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/NVIDIA/#nvidia-drive",
+    "relUrl": "/docs/NVIDIA/#nvidia-drive"
+  },"54": {
+    "doc": "NVIDIA",
+    "title": "Learning",
+    "content": ". | Udacity | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/NVIDIA/#learning",
+    "relUrl": "/docs/NVIDIA/#learning"
+  },"55": {
+    "doc": "NVIDIA",
+    "title": "Companies",
+    "content": ". | Cognata | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/NVIDIA/#companies",
+    "relUrl": "/docs/NVIDIA/#companies"
+  },"56": {
+    "doc": "NVIDIA",
+    "title": "Car computers",
+    "content": ". | Syslogic | Rugged Science | AAEON BOXER-8110AI | Aetina | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/NVIDIA/#car-computers",
+    "relUrl": "/docs/NVIDIA/#car-computers"
+  },"57": {
+    "doc": "NVIDIA",
+    "title": "NVIDIA",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-docs/docs/NVIDIA/",
+    "relUrl": "/docs/NVIDIA/"
+  },"58": {
+    "doc": "OPAL-RT",
+    "title": "OPAL-RT",
+    "content": ". | RT-LAB Orchestra | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/OpalRT/",
+    "relUrl": "/docs/OpalRT/"
+  },"59": {
+    "doc": "Toyota",
+    "title": "CARLA",
+    "content": ". | Carla ROS-Bridge | Carla Autoware | CarlaViz | A customized version for CARLA challenge 2019 | Carla hradless | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Toyota/#carla",
+    "relUrl": "/docs/Toyota/#carla"
+  },"60": {
+    "doc": "Toyota",
+    "title": "Toyota",
+    "content": ". | Toyota Research Institute | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Toyota/",
+    "relUrl": "/docs/Toyota/"
+  },"61": {
+    "doc": "Uber",
+    "title": "Visualization",
+    "content": ". | Autonomous Visualization System by Uber | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Uber/#visualization",
+    "relUrl": "/docs/Uber/#visualization"
+  },"62": {
+    "doc": "Uber",
+    "title": "Learning",
+    "content": ". | Udacity | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Uber/#learning",
+    "relUrl": "/docs/Uber/#learning"
+  },"63": {
+    "doc": "Uber",
+    "title": "Uber",
+    "content": ". | Uber Advanced Technologies Group | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Uber/",
+    "relUrl": "/docs/Uber/"
+  },"64": {
+    "doc": "Vehicle Interface",
+    "title": "Vehicle Interface",
+    "content": ". | Vehicle Interface Firmware | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/VehicleController/",
+    "relUrl": "/docs/VehicleController/"
+  },"65": {
+    "doc": "Vehicle Interface",
+    "title": "CAN",
+    "content": ". | KVASER | CAN Isolator Click | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/VehicleController/#can",
+    "relUrl": "/docs/VehicleController/#can"
+  },"66": {
+    "doc": "Vehicle Interface",
+    "title": "SockerCAN",
+    "content": ". | CAN bus on embedded Linux | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/VehicleController/#sockercan",
+    "relUrl": "/docs/VehicleController/#sockercan"
+  },"67": {
+    "doc": "Waymo",
+    "title": "Waymo",
+    "content": ". | Waymo Dataset— Using Yonohub to develop, evaluate and benchmark over the cloud | Waymo Research | Yonohub | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/Waymo/",
+    "relUrl": "/docs/Waymo/"
+  },"68": {
+    "doc": "dSpace",
+    "title": "dSpace",
+    "content": ". | RTMaps | . ",
+    "url": "http://localhost:4000/just-the-docs/docs/dSpace/",
+    "relUrl": "/docs/dSpace/"
+  },"69": {
+    "doc": "Home",
+    "title": "Introduction",
+    "content": "This is a collection of bookmarks about autonomous vehicles. ",
+    "url": "http://localhost:4000/just-the-docs/#introduction",
+    "relUrl": "/#introduction"
+  },"70": {
+    "doc": "Home",
+    "title": "Software",
+    "content": ". | Open source autonomous driving | Open source autonomous vehicles | Meta car | . ",
+    "url": "http://localhost:4000/just-the-docs/#software",
+    "relUrl": "/#software"
+  },"71": {
+    "doc": "Home",
+    "title": "Projects",
+    "content": ". | AnnieWAY | RBCar | Autonomous Vehicle Control Documentation | MIT SMART | . ",
+    "url": "http://localhost:4000/just-the-docs/#projects",
+    "relUrl": "/#projects"
+  },"72": {
+    "doc": "Home",
+    "title": "Companies",
+    "content": ". | Drive.ai . | Drive.ai report | . | Self Driving Cars | Wheego | Polysync | Automated Driving with ROS at BMW ROSCon 2015 Hamburg Day 2 | Nauto | nuTonomy . | Emilio Frazzoli, CTO, nuTonomy - MIT Self-Driving Cars | . | aimotive | nexar | zoox | Tesla Autopilot | Cadillac Super Cruise | Waymo | Volvo Autonomous Driving | Mercedes Benz Autonomous Driving | BMW Autonomous Driving | Huawei Mobile Automation Engine | Ridecell | StreetDrone | . ",
+    "url": "http://localhost:4000/just-the-docs/#companies",
+    "relUrl": "/#companies"
+  },"73": {
+    "doc": "Home",
+    "title": "Drive by Wire",
+    "content": ". | SKF Electronic Steering Input Unit | Cascade steering | Bosch Mobility Solutions | Nexteer | DCE motorsport | Dataspeed | Autonomoustuff | Understanding Electric Traction and Steering for Robotic Vehicles | Electric power assist conversion | Level filve supplies | Robocart: autonomous ground vehicle | Autonomous Ground Vehicle Prototype via Steering-, Throttle-, and Brakeby Wire Modules | Conversion of a personal mobility vehicle into a steer-by-wire vehicle | Goat Cart: The Autonomous Golf Cart | fka steer by wire golf cart | Autonomous luggage transportation system | Autonomous golf cart testbed | Self driving golf cart | Smart autonomous vehicle | Autonomous people move - RIT | Cal Poly Robotics Club - Autonomous golf cart | . ",
+    "url": "http://localhost:4000/just-the-docs/#drive-by-wire",
+    "relUrl": "/#drive-by-wire"
+  },"74": {
+    "doc": "Home",
+    "title": "Canada",
+    "content": ". | Invest in Ontario | CAVCOE | AVIN | CAVI | Ottawa Cluster | CAV Canada | Canada’s First AV Technology Directory | BLACKBERRY launches security system for autonomous vehicles | Steer by wire golf cart | Joystick control for gold carts and ATVs | . ",
+    "url": "http://localhost:4000/just-the-docs/#canada",
+    "relUrl": "/#canada"
+  },"75": {
+    "doc": "Home",
+    "title": "Articles",
+    "content": ". | Successful Autonomous Vehicle Design Through Simulation | More Evidence That Self-driving Cars Are on a Road to Nowhere | Driverless Cars: 90 Percent Done, 90 Percent Left To Go? | Why driverless cars might not hit the road so fast | . ",
+    "url": "http://localhost:4000/just-the-docs/#articles",
+    "relUrl": "/#articles"
+  },"76": {
+    "doc": "Home",
+    "title": "Projects",
+    "content": ". | Deep Drive | Stanford | AutoRally | OSCC | GM-CMU | Software for online vehicle verification | APEX | BARC - Berkeley | Automated Driving | . ",
+    "url": "http://localhost:4000/just-the-docs/#projects-1",
+    "relUrl": "/#projects-1"
+  },"77": {
+    "doc": "Home",
+    "title": "RC Car",
+    "content": ". | Cherry Autonomous Racecar | . ",
+    "url": "http://localhost:4000/just-the-docs/#rc-car",
+    "relUrl": "/#rc-car"
+  },"78": {
+    "doc": "Home",
+    "title": "Udacity Self Driving Car Nano Degree",
+    "content": ". | Udacity Self-Driving Car Engineer Nanodegree projects by Andrea Palazzi | Semantic segmentation | . ",
+    "url": "http://localhost:4000/just-the-docs/#udacity-self-driving-car-nano-degree",
+    "relUrl": "/#udacity-self-driving-car-nano-degree"
+  },"79": {
+    "doc": "Home",
+    "title": "Open Source",
+    "content": ". | idsc-frazzoli | Self driving golf cart | Open Source Self Driving Car Initiative | OSCC | Self driving car by Udacity . | Udacity Projects | Udacity Challenge 2 | . | comma.ai | OpenDaVINCI | OpenDLV | Ahura | . ",
+    "url": "http://localhost:4000/just-the-docs/#open-source",
+    "relUrl": "/#open-source"
+  },"80": {
+    "doc": "Home",
+    "title": "Simulators",
+    "content": ". | Applied Intuition | Metamoto | RightHook | Carcraft by Waymo | rFpro | Micro-Simulation Models | . ",
+    "url": "http://localhost:4000/just-the-docs/#simulators",
+    "relUrl": "/#simulators"
+  },"81": {
+    "doc": "Home",
+    "title": "People",
+    "content": ". | George Hotz on Comma.AI and the state of self-driving cars | . ",
+    "url": "http://localhost:4000/just-the-docs/#people",
+    "relUrl": "/#people"
+  },"82": {
+    "doc": "Home",
+    "title": "Research",
+    "content": ". | Self-driving cars - MIT | DeepDriving | Deep Learning at Oxford 2015 | . ",
+    "url": "http://localhost:4000/just-the-docs/#research",
+    "relUrl": "/#research"
+  },"83": {
+    "doc": "Home",
+    "title": "Formal verification",
+    "content": ". | Edge Case Research | Verifiable Autonomy | . ",
+    "url": "http://localhost:4000/just-the-docs/#formal-verification",
+    "relUrl": "/#formal-verification"
+  },"84": {
+    "doc": "Home",
+    "title": "Experiments",
+    "content": ". | Self-driving Car | MOPED | . ",
+    "url": "http://localhost:4000/just-the-docs/#experiments",
+    "relUrl": "/#experiments"
+  },"85": {
+    "doc": "Home",
+    "title": "Talks",
+    "content": ". | Chris Gerdes - Ingenuity Derived from Self-Driving Cars | Emilio Frazzoli, CTO, nuTonomy - MIT Self-Driving Cars | . ",
+    "url": "http://localhost:4000/just-the-docs/#talks",
+    "relUrl": "/#talks"
+  },"86": {
+    "doc": "Home",
+    "title": "Videos",
+    "content": ". | Footage of Ford Fusion Hybrid vehicles undergoing various tests as part of the company’s goal to produce fully-autonomous vehicles by 2021. | Kia has introduced the launch of a new sub-brand, ‘DRIVE WISE’, to encompass its future Advanced Driver Assistance Systems (ADAS). DRIVE WISE embodies Kia’s philosophy to realize intelligently safe vehicles featuring Kia’s latest and forthcoming ADAS technologies. Kia recently announced plans to manufacturer partially-autonomous cars by 2020, and aims to bring its first fully-autonomous vehicle to market by 2030. | Self Racing Cars, May 28-29 2016 | . ",
+    "url": "http://localhost:4000/just-the-docs/#videos",
+    "relUrl": "/#videos"
+  },"87": {
+    "doc": "Home",
+    "title": "Autonomy Kits",
+    "content": ". | AUTONOMOUS GROUND RESUPPLY AUTONOMY KIT | . ",
+    "url": "http://localhost:4000/just-the-docs/#autonomy-kits",
+    "relUrl": "/#autonomy-kits"
+  },"88": {
+    "doc": "Home",
+    "title": "Perception",
+    "content": ". | 3D Scene Reconstruction Using Omnidirectional Vision and LiDAR: A Hybrid Approach | Kitti Vision Benchmark | MapGMU | Kitti LiDAR | . ",
+    "url": "http://localhost:4000/just-the-docs/#perception",
+    "relUrl": "/#perception"
+  },"89": {
+    "doc": "Home",
+    "title": "Cameras",
+    "content": ". | Ladybug | . ",
+    "url": "http://localhost:4000/just-the-docs/#cameras",
+    "relUrl": "/#cameras"
+  },"90": {
+    "doc": "Home",
+    "title": "LiDAR",
+    "content": ". | LiDAR sensors | . ",
+    "url": "http://localhost:4000/just-the-docs/#lidar",
+    "relUrl": "/#lidar"
+  },"91": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "http://localhost:4000/just-the-docs/",
+    "relUrl": "/"
+  }
+}
