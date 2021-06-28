@@ -10,3 +10,4 @@ description: News and resources on mobility in Canada
 
 * [Electra Mechanica: Solo](https://electrameccanica.com/)
 * [Bowhead](https://bowheadcorp.com/)
+* [Accelerated Systems](https://www.acceleratedsystems.com/)
