@@ -1,10 +1,10 @@
 ---
 
 layout: default  
-title: "Startup"  
-linkTitle: "Startup"  
+title: "Startups"  
+linkTitle: "Startups"  
 date: 2020-02-06  
-description: News and resources on start-up in Canada
+description: News and resources on startups in Canada
 
 ---
 
