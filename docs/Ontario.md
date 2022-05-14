@@ -16,3 +16,7 @@ description: News and resources on innovation in Ontario
 * [Innovate Niagara](https://www.innovateniagara.com/site/home)
 * [WEtech Alliance: Windsor Essex](https://www.wetech-alliance.com/)
 * [Innovation Factory: Hamilton](https://innovationfactory.ca/)
+
+# Toronto
+
+* [Toronto tech scene](https://github.com/toriagibbs-zz/toronto-tech-scene)
