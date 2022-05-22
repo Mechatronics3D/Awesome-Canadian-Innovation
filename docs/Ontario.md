@@ -20,3 +20,4 @@ description: News and resources on innovation in Ontario
 # Toronto
 
 * [Toronto tech scene](https://github.com/toriagibbs-zz/toronto-tech-scene)
+* [Oh Canada! Discover the innovation ecosystem in Toronto and beyond](https://entrepreneurs.utoronto.ca/event/oh-canada-discover-the-innovation-ecosystem-in-toronto-and-beyond/)
